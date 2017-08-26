@@ -4,3 +4,4 @@ Commit Change #3 <br>
 Commit Change #4 <br>
 Commit Change #5 <br>
 Commit Change #6 When creating a new branch to make edits and merging back into master branch there are two commits.<br>
+Commit Change #7 I'll will be focusing on creating a new branch to make an edit to keep best practices <br>
